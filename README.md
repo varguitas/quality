@@ -1,3 +1,6 @@
+[![Dependency Status](https://david-dm.org/varguitas/quality.svg)](https://david-dm.org/varguitas/quality)
+[![devDependency Status](https://david-dm.org/varguitas/quality/dev-status.svg)](https://david-dm.org/varguitas/quality#info=devDependencies)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
